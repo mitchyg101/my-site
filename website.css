@@ -1,0 +1,42 @@
+body {
+  background-color:grey;
+}
+
+h {
+   font-size:100px;
+   color:red;
+   border:solid black;
+   background-color:white;
+}
+p {
+   color:black;
+   text-align:left;
+   font-size:30px;
+ }
+
+div {
+ background-color:green;
+  border: 5px dashed white;
+  paddding: 50px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  margin-left: left;
+  margin-right: left;
+  width: 450px;
+  float:left;
+  margin:1%;
+  text-align:right;
+  margin-right:40px;
+}
+h2 {
+  text-align:center;
+  color: black;
+  text-decoration:underline;
+}
+li{
+  text-align:left;
+  font-size:25px;
+  padding:30px;
+}
+
+.right
