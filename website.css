@@ -42,3 +42,11 @@ li{
 .right{
   float:right;
   }
+
+.footer{
+  background-color: white;
+  text-align: center;
+  padding: 30px;
+  clear:both;
+  font-size:30px;
+}
