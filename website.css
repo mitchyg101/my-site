@@ -4,17 +4,18 @@ body {
 
 h {
    font-size:100px;
-   color:red;
+   color:black;
    border:solid black;
    background-color:white;
+   text-decoration: underline;
 }
 p {
    color:black;
    text-align:left;
    font-size:30px;
- } 
-@media(max-width:800px){
-  div{
+ }
+
+div {
  background-color:green;
   border: 5px dashed white;
   paddding: 50px;
@@ -30,7 +31,7 @@ p {
 }
 h2 {
   text-align:center;
-  color: black; 
+  color: black;
   text-decoration:underline;
 }
 li{
@@ -50,4 +51,3 @@ li{
   clear:both;
   font-size:30px;
 }
-  
