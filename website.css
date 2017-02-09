@@ -13,8 +13,8 @@ p {
    text-align:left;
    font-size:30px;
 }
-div{
- background-color:green;
+div {
+  background-color:green;
   border: 5px dashed white;
   paddding: 50px;
   margin-bottom: 50px;
