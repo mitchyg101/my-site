@@ -13,8 +13,7 @@ p {
    text-align:left;
    font-size:30px;
 }
-div {
-  @media(max-width:800px)
+div{
  background-color:green;
   border: 5px dashed white;
   paddding: 50px;
